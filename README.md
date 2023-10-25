@@ -1,4 +1,4 @@
-<div align="center">
+<div >
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=CED8F6&text=Welcome%20to%20Jlostcode's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 ---
@@ -10,12 +10,12 @@
 <br>
 
 ## 🙋 About Me 🙋
-<div style="display:flex; flex-direction:row;">
-    🎵 새로운 기술, 도전하는 것에 열정이 넘치고 ❗
-    💡 개발 과정에서 다양한 문제에 부딪히고 해결하는 것을 좋아하고 ❗
-    👥 협업하는 과정에서 가독성을 중요시하고 ❗
-    🌟 좋은 코드에 대해 늘 고민하며 ❗
-    👍 항상 배우고 같이 성장하는 개발자입니다 ❗
+<div style="text-align: left;" style="display:flex; flex-direction:row;">
+    🎵 새로운 기술, 도전하는 것에 열정이 넘치고 ❗<br>
+    💡 개발 과정에서 다양한 문제에 부딪히고 해결하는 것을 좋아하고 ❗<br>
+    👥 협업하는 과정에서 가독성을 중요시하고 ❗<br>
+    🌟 좋은 코드에 대해 늘 고민하며 ❗<br>
+    👍 항상 배우고 같이 성장하는 개발자입니다 ❗<br>
 </div><br>
 
 ## 💻 Jlostcode's log 💻
